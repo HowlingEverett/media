@@ -1,10 +1,10 @@
 {
-  "name": "media",
+  "name": "nemea",
   "version": "1.0.0",
   "description": "Node.js monorepo developer flow, without symlinks",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/HowlingEverett/media.git",
+    "url": "https://github.com/HowlingEverett/nemea.git",
     "type": "git"
   },
   "author": "@howlingeverett",
