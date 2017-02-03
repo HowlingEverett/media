@@ -8,5 +8,9 @@
     "type": "git"
   },
   "author": "@howlingeverett",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "npm": "^4.1.2"
+  }
 }
